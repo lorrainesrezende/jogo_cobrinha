@@ -3,5 +3,5 @@
 
 <p>A partir da aula básica, adicionei um estilo visual ao jogo.</p>
 
-<a href="https://photos.app.goo.gl/HR9xwQSuhZGrHUd7A" class="_blank">Snake Game</a>
+<a href="https://photos.app.goo.gl/HR9xwQSuhZGrHUd7A" target="_blank">Snake Game</a>
 
