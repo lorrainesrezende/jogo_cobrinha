@@ -3,5 +3,4 @@
 
 <p>A partir da aula básica, adicionei um estilo visual ao jogo.</p>
 
-<a href="https://photos.app.goo.gl/HR9xwQSuhZGrHUd7A" target="_blank">Snake Game</a>
-
+![WhatsApp Image 2021-01-15 at 14 36 14 (1)](https://user-images.githubusercontent.com/75039468/104948803-a3a1eb00-599c-11eb-8ecd-79c55c367e37.jpeg)
